@@ -1,0 +1,26 @@
+{
+  "name": "vijeeth-rn-dropdownlist",
+  "version": "1.0.0",
+  "description": "React native down Down list",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijeeth-pro/vijeeth-rn-dropDownList.git"
+  },
+  "keywords": [
+    "react native"
+  ],
+  "author": "Vijeeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijeeth-pro/vijeeth-rn-dropDownList/issues"
+  },
+  "homepage": "https://github.com/vijeeth-pro/vijeeth-rn-dropDownList#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-native": "^0.70.4"
+  }
+}
